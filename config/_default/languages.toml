@@ -1,0 +1,5 @@
+[nl]
+languageName = "Nederlands"
+languageCode = "nl-NL"
+contentDir = "content/dutch"
+weight = 1

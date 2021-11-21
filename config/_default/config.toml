@@ -1,0 +1,5 @@
+baseURL = "https://www.cruquiuswerf.amsterdam/"
+languageCode = "nl-nl"
+title = "Cruquiuswerf"
+theme = "airspace-hugo"
+timeZone = "Europe/Amsterdam"
